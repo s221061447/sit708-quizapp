@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "choices": ["New York", "Paris", "Berlin", "London"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the tallest mammal?",
+    "choices": ["Giraffe", "Elephant", "Rhinoceros", "Hippopotamus"],
+    "answer": "Giraffe"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "choices": ["Dollar", "Yen", "Euro", "Pound"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": ["Venus", "Mars", "Mercury", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "choices": ["Liver", "Lungs", "Brain", "Skin"],
+    "answer": "Skin"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "choices": ["Melbourne", "Sydney", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "choices": ["Chickpeas", "Potatoes", "Tomatoes", "Cucumbers"],
+    "answer": "Chickpeas"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "choices": ["Maldives", "Monaco", "Nauru", "Vatican City"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "choices": ["Harper Lee", "J.K. Rowling", "Stephen King", "Ernest Hemingway"],
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "choices": ["Au", "Ag", "Cu", "Fe"],
+    "answer": "Au"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "choices": ["English", "Spanish", "Chinese", "Arabic"],
+    "answer": "Chinese"
+  },
+  {
+    "question": "What is the largest animal on earth?",
+    "choices": ["Blue whale", "Elephant", "Giraffe", "Hippopotamus"],
+    "answer": "Blue whale"
+  },
+  {
+    "question": "What is the national animal of Canada?",
+    "choices": ["Moose", "Grizzly bear", "Bald eagle", "Beaver"],
+    "answer": "Beaver"
+  },
+  {
+    "question": "Who painted the famous artwork 'The Mona Lisa'?",
+    "choices": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Salvador Dali"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "choices": ["Nile", "Amazon", "Mississippi", "Yangtze"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Which continent is the least populated?",
+    "choices": ["Asia", "Antarctica", "Africa", "Australia"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which country is the largest producer of coffee?",
+    "choices": ["Brazil", "Colombia", "Ethiopia", "Vietnam"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "choices": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "choices": ["Femur", "Stapes", "Tibia", "Humerus"],
+    "answer": "Stapes"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "choices": ["Japan", "China", "Korea", "Vietnam"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "choices": ["Si", "Ag", "Na", "Hg"],
+    "answer": "Ag"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choices": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+    "answer": "Antarctic"
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "choices": ["Steven Spielberg", "James Cameron", "George Lucas", "Martin Scorsese"],
+    "answer": "Steven Spielberg"
+  }
+]
